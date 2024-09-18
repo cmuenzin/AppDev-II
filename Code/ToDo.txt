@@ -1,0 +1,7 @@
+-   Treiber Kompilieren
+    1.  Terminal öffnen
+    2.  Navigiere zum 'Code' Ordner
+    3.  Kompiliere die Java-Datei:
+            javac -d bin -cp lib/mariadb-java-client-3.4.0.jar src/rmi_tester/server/DatabaseConnection.java
+-   SQL Datenbank Daten imporiren
+    1.  ToDo @Poolnudel
